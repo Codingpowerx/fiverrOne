@@ -3,7 +3,6 @@ import React, { useState } from  'react';
 import RoulettePro from 'react-roulette-pro';
 import 'react-roulette-pro/dist/index.css';
 import gift from '../../assets/items/iphones.png'
-import { Link } from 'react-router-dom';
 import './mystery.css'
 
 const prizes = [

@@ -9,7 +9,7 @@ import { motion } from 'framer-motion';
 function ListMysteryItems() {
   return (
     <>
-        <div className="container py-5">
+        <div className="container pb-5">
             <div className="text-center py-5">
                 <h1 className='text-white fw-bold fs-2'>List of Mystery Boxes</h1>
                 <Link to="unboxings-from-customers" className='custom-yellow fw-bold'> Unboxings from our customers <FaGifts/> </Link>
