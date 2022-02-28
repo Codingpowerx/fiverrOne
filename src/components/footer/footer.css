@@ -1,0 +1,14 @@
+.bg-footer {
+  background-color: #05020d;
+}
+
+.fs-footer {
+  font-size: 13px;
+}
+
+.footer-link {
+  font-size: 14px;
+  text-decoration: none;
+  color: gray;
+  font-weight: 600;
+}

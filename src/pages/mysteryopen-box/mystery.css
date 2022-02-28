@@ -1,0 +1,27 @@
+.selected-item {
+  width: 7rem;
+}
+
+.selected-text {
+  background: -webkit-linear-gradient(rgb(75, 21, 135), #ff9c00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.auto {
+  width: auto !important;
+}
+
+.luck-img {
+  width: 100%;
+}
+
+.luck-card {
+  background-image: linear-gradient(
+    to top right,
+    rgb(25, 13, 39),
+    rgb(111, 51, 180)
+  );
+  border: none;
+  border-radius: 0.8rem;
+}

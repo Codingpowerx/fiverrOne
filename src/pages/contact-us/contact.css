@@ -1,0 +1,42 @@
+.bg-contact {
+  background-color: rgba(95, 76, 202, 0.534);
+}
+
+.facebook {
+  text-decoration: none;
+}
+
+.contact-text {
+  color: #cbcbf2;
+  font-size: 13px;
+}
+.contact-h1 {
+  color: #cbcbf2;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.contact-content {
+  padding: 22px 30px 33px;
+  margin: auto;
+  width: auto !important;
+  border-radius: 1rem;
+}
+
+/* media queries */
+
+@media (min-width: 768px) {
+  .contact-content {
+    padding: 22px 30px 33px;
+    margin: auto;
+    width: auto !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .contact-content {
+    padding: 22px 30px 33px;
+    margin: 23px auto;
+    width: 700px !important;
+  }
+}

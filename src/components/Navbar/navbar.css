@@ -1,0 +1,30 @@
+.nav-custom {
+  background-color: #030007;
+  padding: 0.93rem 0;
+  border-bottom: 5px solid rgba(6, 4, 8, 0.5);
+}
+
+.navlink-custom {
+  color: rgb(145, 80, 219);
+  font-size: 0.9rem;
+}
+.navlink-custom:hover {
+  color: rgb(213, 185, 245);
+  transition: 1s;
+}
+
+.bgLogin {
+  width: 18rem;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.border-none {
+  border: none !important;
+}
+
+.border-radius-custom {
+  border-radius: 1.3rem;
+}
